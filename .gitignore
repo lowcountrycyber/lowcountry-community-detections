@@ -1,0 +1,9 @@
+﻿# Ignore Python cache, temp files, VSCode junk
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.log
+.vscode/
+.idea/
+.DS_Store
